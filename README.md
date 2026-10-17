@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ould-amine/ould-amine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Researcher | Physical Models · Representation Learning · Foundation Models · AI for Science
 
-Here are some ideas to get you started:
+I'm an AI researcher. My research interests lie at the intersection of **representation learning, foundation models, mechanistic interpretability, and ML**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 **Research experience**
+- **Unaite × AMI Labs × Cellular Intelligence × Gustave Roussy** — Interpretable modeling of cell-resolved virtual tissues
+- **EDF Lab × INRIA** — ML to build metamodels of optimisation models that operate on the European electric grid
+- **Institut Curie** — Genomic foundation models and mechanistic interpretability
+
+🧠 **Areas of interest:** Physical Models · World Models · Self-Supervised Learning · AI for Biology · Mechanistic Interpretability · Generative Models
+
+🌍 Based in Paris · Open to research collaborations and technical discussions
